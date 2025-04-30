@@ -27,6 +27,9 @@ PowerBI-OEE-Coflex/
 ├── docs/
 │   ├── README.md                → Descripción general del repositorio
 │   ├── DAX_Utilizados.md        → Medidas DAX documentadas
+│   ├── Tablas_Calculadas.md     → Codigo M documentado
+│   ├── Columnas Calculadas.md   → DAX documentadas
+│   ├── DAX_Utilizados.md        → Medidas DAX documentadas
 │   ├── Manual_Usuario.md       → Guía de uso del dashboard
 │   ├── Diccionario_Datos.md    → Descripción de tablas SQL
 │   └── Modelo_Tablero.md       → Qué mide y cómo funciona
