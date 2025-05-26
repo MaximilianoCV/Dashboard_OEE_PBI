@@ -29,10 +29,11 @@ PowerBI-OEE-Coflex/
 │   ├── DAX_Utilizados.md        → Medidas DAX documentadas
 │   ├── Tablas_Calculadas.md     → Codigo M documentado
 │   ├── Columnas Calculadas.md   → DAX documentadas
+│   ├── Tablas Codigo M.md       → DAX documentadas
 │   ├── Manual_Usuario.md       → Guía de uso del dashboard
 │   ├── Diccionario_Datos.md    → Descripción de tablas SQL
 │   └── Modelo_Tablero.md       → Qué mide y cómo funciona
-├── sql/
+├── sql/ 
 │   └── consulta_fuente_OEE.sql → Consulta SQL base
 ├── img/
 │   ├── preview_dashboard.png   → Captura del dashboard
