@@ -23,21 +23,21 @@ Documentar y compartir un modelo de visualización profesional del OEE (Overall 
 
 ```plaintext
 PowerBI-OEE-Coflex/
-├── pbix/                        → Archivo PBIX del tablero
+├── pbix/                                   → Archivo PBIX del tablero
 ├── docs/
-│   ├── README.md                → Descripción general del repositorio
-│   ├── DAX_Utilizados.md        → Medidas DAX documentadas
-│   ├── Tablas_Calculadas.md     → Codigo M documentado
-│   ├── Columnas_Calculadas.md   → DAX documentadas
-│   ├── Tablas_CodigoM.md       → DAX documentadas
-│   ├── Manual_Usuario.md       → Guía de uso del dashboard
-│   └── Modelo_Tablero.md       → Qué mide y cómo funciona
+│   ├── README.md                           → Descripción general del repositorio
+│   ├── DAX_Utilizados.md                   → Medidas DAX documentadas
+│   ├── Tablas_Calculadas.md                → Codigo M documentado
+│   ├── Columnas_Calculadas.md              → DAX documentadas
+│   ├── Tablas_CodigoM.md                   → DAX documentadas
+│   ├── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
+│   └── Modelo_Tablero.md                   → Qué mide y cómo funciona
 ├── sql/ 
-│   └── consulta_fuente_OEE.sql → Consulta SQL base
+│   └── consulta_fuente_OEE.sql             → Consulta SQL base
 ├── img/
-│   ├── preview_dashboard.png   → Captura del dashboard
-│   └── modelo_datos.png        → Relación entre tablas
-└── LICENSE                     → MIT (u otra que se defina)
+│   ├── preview_dashboard.png               → Captura del dashboard
+│   └── modelo_datos.png                    → Relación entre tablas
+└── LICENSE                                 → MIT (u otra que se defina)
 ```
 
 ---
