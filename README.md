@@ -1,4 +1,4 @@
-# 📊 Dashboard OEE Coflex - Power BI + SQL Server
+# 📊 Dashboard OEE Coflex - Power BI
 
 Este repositorio contiene un ejemplo real de implementación de un dashboard de Power BI conectado a SQL Server, orientado al análisis de eficiencia operativa (OEE) en entornos industriales.
 
